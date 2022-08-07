@@ -1,2 +1,2 @@
-# agile-certification
-Agile-Certification
+# Agile certification
+Agile Certification
